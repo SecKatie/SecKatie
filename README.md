@@ -21,13 +21,13 @@ I'm a Security Engineer dedicated to making technology safer and more accessible
 > 🏠 Home Assistant integration for Wyze devices
 
 A robust API implementation that bridges Wyze devices with Home Assistant. This project empowers users to integrate their Wyze devices into their home automation setup while upholding stringent security practices.  
-[Explore the project on GitHub](https://github.com/sekatie/ha-wyzeapi)
+[Explore the project on GitHub](https://github.com/seckatie/ha-wyzeapi)
 
 ### FalkorDB-MCPServer
 > 🗄️ Model Context Protocol server for FalkorDB graph database
 
 A powerful MCP server implementation that enables AI assistants to interact with FalkorDB graph databases. This project allows seamless integration of graph database operations into AI workflows.  
-[Explore the project on GitHub](https://github.com/sekatie/FalkorDB-MCPServer)
+[Explore the project on GitHub](https://github.com/seckatie/FalkorDB-MCPServer)
 
 ---
 
