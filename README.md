@@ -56,7 +56,6 @@ A powerful MCP server implementation that enables AI assistants to interact with
 
 ## 📫 Connect With Me
 
-- **Blog:** [blog.mulliken.net](https://blog.mulliken.net)
 - **Website:** [mulliken.net](https://mulliken.net)
 - **Email:** [katie@mulliken.net](mailto:katie@mulliken.net)
 - **LinkedIn:** [Katie's LinkedIn](https://www.linkedin.com/in/sekatie)
