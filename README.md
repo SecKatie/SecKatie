@@ -8,7 +8,6 @@ Product Security @ Red Hat • Open Source Contributor
 ## Projects
 
 - **[ha-wyzeapi](https://github.com/seckatie/ha-wyzeapi)** — Home Assistant integration for Wyze devices
-- **[FalkorDB-MCPServer](https://github.com/seckatie/FalkorDB-MCPServer)** — MCP server for FalkorDB graph database
 
 ## Tech
 
