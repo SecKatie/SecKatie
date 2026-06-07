@@ -8,6 +8,7 @@ Product Security @ Red Hat • Open Source Contributor
 ## Projects
 
 - **[ha-wyzeapi](https://github.com/seckatie/ha-wyzeapi)** — Home Assistant integration for Wyze devices
+- **[lola](https://github.com/LobsterTrap/lola)** - AI Skills, Sub-Agents, Slash Commands, and MCP package manager
 
 ## Tech
 
